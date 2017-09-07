@@ -8,8 +8,7 @@ heroku_api_key = ""
 
 # Heroku App specific parameters
 heroku_app_name = ""
-heroku_app_region = "us"
-heroku_app_domainname = ""
+heroku_app_domainname = "xxx.example.com"
 
 # Customize config variable(s) in map type variable below.
 # https://devcenter.heroku.com/articles/config-vars
