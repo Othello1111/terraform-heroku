@@ -33,6 +33,7 @@ terraform apply
 ## To-Do
 
  - [ ] Provide for remote state file storage, most likely in S3.
+ - [ ] Implement tests.
 
  ## License
 
